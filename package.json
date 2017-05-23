@@ -2,7 +2,7 @@
   "name": "typescript-react-template",
   "displayName": "Typescript React Template",
   "description": "Fills out a React Component template when you create a new TSX file",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "q",
   "engines": {
     "vscode": "^1.12.0"
