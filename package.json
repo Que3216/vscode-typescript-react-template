@@ -4,6 +4,10 @@
   "description": "Fills out a React Component template when you create a new TSX file",
   "version": "0.0.4",
   "publisher": "q",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Que3216/vscode-typescript-react-template.git"
+  },
   "engines": {
     "vscode": "^1.12.0"
   },
